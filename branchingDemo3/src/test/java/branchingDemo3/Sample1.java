@@ -6,6 +6,8 @@ public class Sample1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Branching Demo 3 ");
+		
+		//creating a branch
 	}
 
 }
